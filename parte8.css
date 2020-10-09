@@ -1,0 +1,37 @@
+body {
+    margin: 8px;
+}
+
+h1,h2 {
+    margin: 9px;
+}
+
+
+ 
+#cabeçalho {
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 24px
+}
+.foto img {
+    width: 790px;
+    height: 474px;
+}
+#video { 
+    border-radius: 15px; 
+}
+
+a:hover{
+    color:green;
+}
+h1:hover{
+
+    letter-spacing: 10px;
+}
+
+h2:hover{
+
+    letter-spacing: 10px;
+}

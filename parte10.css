@@ -1,0 +1,31 @@
+body {
+    margin: 8px;
+}
+
+h1 :hover{
+    width: 300px;
+    height: 300px;
+}
+ 
+#cabeçalho {
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 24px
+}
+.foto img {
+    width: 790px;
+    height: 474px;
+}
+#video { 
+    border-radius: 15px; 
+}
+
+a:hover{
+    color:red;
+}
+h1:hover{
+
+    letter-spacing: 10px;
+}
